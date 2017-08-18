@@ -2,8 +2,9 @@
 
 The reactivemaps starter app is a simple getting started boilerplate app for the [reactivesearch](https://github.com/appbaseio/reactivesearch) library. To use this, first clone the repository.
 
+*updated*
 ```
-git clone https://github.com/appbaseio-apps/reactivesearch-starter-app.git
+git clone git@github.com:xxdf/reactivesearch-starter-app.git
 ```
 
 
